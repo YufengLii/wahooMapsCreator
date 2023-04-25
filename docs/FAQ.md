@@ -9,6 +9,7 @@
   - [How can I restore original maps?](#how-can-i-restore-original-maps)
   - [Can I preview my generated maps before putting them onto the Wahoo device?](#can-i-preview-my-generated-maps-before-putting-them-onto-the-wahoo-device)
 - [Device theme](#device-theme)
+  - [Where are the device themes?](#where-are-the-device-themes)
   - [How can I restore original rendering layout?](#how-can-i-restore-original-rendering-layout)
 - [Connection from Wahoo device to computer](#connection-from-wahoo-device-to-computer)
   - [I can't see my Wahoo device on my computer](#i-cant-see-my-wahoo-device-on-my-computer)
@@ -60,6 +61,10 @@ Delete all content from `maps/tiles/8` on your Wahoo device. After that, you can
 Read [usage of cruiser](USAGE_CRUISER.md#usage-of-cruiser)
 
 ## Device theme
+
+### Where are the device themes?
+Device themes can be found in repo [wahooDeviceThemes](https://github.com/treee111/wahooDeviceThemes). With v4.0.0 they were moved over there to have a better overview and handle them better.
+
 ### How can I restore original rendering layout?
 If you render using VTM, delete this folder on your Wahoo device:  `maps/vtm-elemnt/vtm-elemnt.xml`.
 
