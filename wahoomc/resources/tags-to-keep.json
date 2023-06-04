@@ -11,8 +11,7 @@
         "amenity": [
             "fuel",
             "cafe",
-            "drinking_water",
-            "shelter"
+            "drinking_water"
         ],
         "shop": [
             "bakery",
@@ -82,11 +81,9 @@
             "canal",
             "drain",
             "river",
-            "riverbank",
-            "stream"
+            "riverbank"
         ],
-        "wood": "deciduous",
-        "tourism": "alpine_hut"
+        "wood": "deciduous"
     },
     "NAME_TAGS_TO_KEEP_UNIVERSAL": {
         "admin_level": "2",
